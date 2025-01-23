@@ -1,0 +1,15 @@
+<?php declare(use_strict=1);
+
+require 'autoload.php';
+
+use App\RobotCLI;
+
+if (empty($argv[1])) {
+    echo "Please enter a textfile argument to begin using this script\n";
+    exit;
+} elseif (file_exists($argv[1])) {
+    $cli = new RobotCLI();
+    $cli->initializeRobot($argv[1]);
+} else {
+    echo "This file does not exist\n";
+}

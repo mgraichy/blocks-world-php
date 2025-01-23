@@ -1,0 +1,17 @@
+10 blocks
+
+print move 8 onto 1
+print move 7 over 6
+print pile 6 over 1
+print move 5 onto 1
+
+print pile 0 onto 1
+
+print pile 1 over 2
+print pile 1 over 7
+print move 1 onto 7
+
+print move 1 onto 3
+print move 8 onto 9
+print pile 6 onto 4
+
