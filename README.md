@@ -3,8 +3,7 @@
 This is the classic [Blocks World](https://onlinejudge.org/external/1/101.pdf), in PHP.
 
   - Implemented in the CLI with a basic text editor
-  - Unlike most PHP scripts, Blocks World makes use of a data structure class embedded into an algorithm class (much like linked lists).
-    - I found that this was the most elegant way to capture all and only the requirements for Blocks World, which requires very much attention to detail to get right in an efficient way.
+  - Unlike most PHP scripts, Blocks World makes use of a data structure class as the most elegant way to capture all and only the requirements for Blocks World, which requires very much attention to detail to get right in an efficient way.
 
 
 ## How to Run the Code
