@@ -2,8 +2,8 @@
 
 This is the classic [Blocks World](https://onlinejudge.org/external/1/101.pdf), in PHP.
 
-  - Implemented in the CLI with a basic text editor
-  - Unlike most PHP scripts, Blocks World makes use of a data structure class as the most elegant way to capture all and only the requirements for Blocks World, which requires very much attention to detail to get right in an efficient way.
+  - Implemented in the CLI.
+  - This script makes use of a data structure class as the most elegant way to capture all and only the requirements for Blocks World, which requires much attention to detail to get right in an efficient way.
 
 
 ## How to Run the Code
