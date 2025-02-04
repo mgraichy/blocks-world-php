@@ -3,7 +3,7 @@
 This is the classic [Blocks World](https://onlinejudge.org/external/1/101.pdf), in PHP.
 
   - Implemented in the CLI.
-  - This script makes use of a data structure class as the most elegant way to capture all and only the requirements for Blocks World, which requires much attention to detail to get right in an efficient way.
+  - Block.php contains a data structure class, as this was the most elegant way to capture all and only the requirements for Blocks World. The resulting class in Robot.php has echoes of a linked list (using `class Block`), except here we've changed `Robot`'s methods to reflect what the `Robot` class does.
 
 
 ## How to Run the Code
