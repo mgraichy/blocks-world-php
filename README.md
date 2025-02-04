@@ -18,7 +18,7 @@ This is the classic [Blocks World](https://onlinejudge.org/external/1/101.pdf), 
 - **Including Your Own Input File.**
   1. Create a text file with the following possible keywords:
         ```
-        # Comments can be placed anywhere
+        # Comments can be placed on any line
         15 blocks
         print move x onto y
         print move x over y
